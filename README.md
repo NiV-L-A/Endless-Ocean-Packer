@@ -24,6 +24,8 @@
 	- JAP R4EJ01
 	
 ## How to run ##
+- NOTE: You need .NET Desktop Runtime 5.0 to run this program.
+	- https://dotnet.microsoft.com/en-us/download/dotnet/5.0
 - To use this tool, create a file in the same directory as the .exe called "EndlessOceanPackerSettings.txt", 
 - Make sure you have the .txt in this format:
 	- #Argument 1, INFO.DAT & GAME.DAT folder path (input & output folder)
