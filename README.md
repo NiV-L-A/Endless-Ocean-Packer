@@ -29,3 +29,10 @@
 	- #Argument 2, content folder
 	- ContentFolder=
 - Lines that start with '#' will be ignored
+- You can have a third argument, '-log'. It will create another .txt file where some log information will be stored.
+- Example:
+	- #Argument 1, INFO.DAT & GAME.DAT folder path (input & output folder)
+	- InfoFolder=C:\Users\Roberto\Desktop\EOModding\Wii\Endless Ocean Blue World [R4EE01]\files
+	- #Argument 2, content folder
+	- ContentFolder=C:\Users\Roberto\Desktop\EOModding\Wii\Endless Ocean Blue World [R4EE01]\files\QuickBMSOutput
+	- -log
