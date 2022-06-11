@@ -40,5 +40,5 @@
 	- #Argument 2, content folder
 	- ContentFolder=C:\Users\Roberto\Desktop\EOModding\Wii\Endless Ocean Blue World [R4EE01]\files\QuickBMSOutput
 	- -log
-	
-https://i.gyazo.com/94e3b655f5c746712fbb94f9260f4a35.mp4
+
+https://user-images.githubusercontent.com/44531714/173192058-35478e4e-8028-45ec-b914-ed3ecd148a9b.mp4
