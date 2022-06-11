@@ -9,9 +9,11 @@
 - Initial Commit
 
 ## Description ##
-- Straight-forward C# code that has the ability to create the GAME.DAT/INFO.DAT pair from feeding the INFO.DAT and the content folder.
+- Straight-forward C# code that has the ability to build the GAME.DAT/INFO.DAT pair from feeding the INFO.DAT and the content folder.
+- NOTE: It deletes GAME.DAT and creates a new one, it modifies INFO.DAT accordingly.
+- In case of EO1, it decrypts INFO.DAT and encrypts it back when GAME.DAT has been built sucessfully.
 - Supported game versions:
-- EO1 (decrypts INFO.DAT on the fly, then encrypts it back)
+- EO1
 	- NTSC RFBE01
 	- PAL RFBP01
 	- JAP 1.0 RFBJ01
